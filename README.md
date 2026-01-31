@@ -20,4 +20,4 @@ Analyze sales, revenue, cost, discounts, and profit to identify top-performing p
 - Discounts affect profit; monitor carefully
 
 ## GitHub Notebook
-[View Notebook](https://github.com/PatilDarsh23/FUTURE_DS_01/blob/main/FUTURE_DS_03_Task3/analysis.ipynb)
+[View Notebook]([https://github.com/PatilDarsh23/FUTURE_DS_01/blob/main/FUTURE_DS_03_Task3/analysis.ipynb](https://github.com/PatilDarsh23/FUTURE_DS_01/commit/873ea76d04f407f9681596b26eaf8e8becd8a594))
