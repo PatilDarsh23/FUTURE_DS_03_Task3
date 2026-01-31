@@ -1,23 +1,48 @@
 # Task 3: Product Performance & Profitability Analysis
 
-## Objective
-Analyze sales, revenue, cost, discounts, and profit to identify top-performing products and improvement areas.
+This task focuses on analyzing the sales and profitability of different products to identify
+top-performing products and areas for improvement.
 
-## Dataset
-- Products: Laptop, Mobile, Tablet, Headphones, Smartwatch
-- Metrics: Units Sold, Revenue, Cost, Discount, Profit, Profit Margin (%), Profit Rank
+---
 
-## Visualizations
-1. Profit & Profit Margin by Product (dual-axis chart)
-2. Revenue vs Cost with Profit Highlights
-3. Units Sold vs Profit (marker size = profit margin)
+## 📌 Objective
+- Calculate profit for each product (Revenue - Cost)
+- Identify top and low-performing products
+- Provide insights for business decisions
 
-## Key Insights
-- Laptop & Mobile: Highest profit and margin
-- Tablet: Moderate profit, needs optimization
-- Headphones: Low margin, consider promotions
-- Smartwatch: High efficiency, potential to increase profit by selling more
-- Discounts affect profit; monitor carefully
+---
 
-## GitHub Notebook
-[View Notebook]([[https://github.com/PatilDarsh23/FUTURE_DS_01/blob/main/FUTURE_DS_03_Task3/analysis.ipynb]])
+## 📊 Analysis Overview
+The analysis includes:
+- Units sold, revenue, cost, and profit for each product
+- Profit visualization using bar charts
+- Sorted product performance based on profit
+- Key insights for decision-making
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📁 Files in This Folder
+- `analysis.ipynb` – Complete analysis of product performance and profitability with visualizations
+
+---
+
+## 📈 Key Insights
+- Laptops and Mobiles generate the highest profit
+- Accessories like Headphones and Smartwatches have lower margins
+- Revenue alone does not guarantee high profit
+- Focus on high-margin products and cost optimization for low-margin items
+
+---
+
+## ✅ Status
+Task completed as part of the **Data Science & Analytics Internship**
+at **Future Interns**.
+h23/FUTURE_DS_01/blob/main/FUTURE_DS_03_Task3/analysis.ipynb]])
